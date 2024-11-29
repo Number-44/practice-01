@@ -137,11 +137,11 @@ print(type(thisSet))
 
 thisSet01={1,11,2,22,3,33,4,44,5,55}
 
-mosh=thisSet.intersection(thisSet01)
-print(mosh)
+koper=thisSet.intersection(thisSet01)
+print(koper)
 
-ejtemae=thisSet.difference(thisSet01)
-print(ejtemae)
+evila=thisSet.difference(thisSet01)
+print(evila)
 
 dnkn=thisSet.symmetric_difference(thisSet01)
 print(dnkn)
